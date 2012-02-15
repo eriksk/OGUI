@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGUI", "OGUI\OGUI.csproj", "{C15758A9-07C7-4956-B231-1F6F40142E1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGUIDemo", "OGUIDemo\OGUIDemo\OGUIDemo.csproj", "{0F179C10-4C61-4181-9DA3-664217D3D696}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "OGUIDemoContent", "OGUIDemo\OGUIDemoContent\OGUIDemoContent.contentproj", "{B5E7064C-EE6C-48F7-9A8A-705C4AC0F6AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C15758A9-07C7-4956-B231-1F6F40142E1D}.Debug|x86.ActiveCfg = Debug|x86
+		{C15758A9-07C7-4956-B231-1F6F40142E1D}.Debug|x86.Build.0 = Debug|x86
+		{C15758A9-07C7-4956-B231-1F6F40142E1D}.Release|x86.ActiveCfg = Release|x86
+		{C15758A9-07C7-4956-B231-1F6F40142E1D}.Release|x86.Build.0 = Release|x86
+		{0F179C10-4C61-4181-9DA3-664217D3D696}.Debug|x86.ActiveCfg = Debug|x86
+		{0F179C10-4C61-4181-9DA3-664217D3D696}.Debug|x86.Build.0 = Debug|x86
+		{0F179C10-4C61-4181-9DA3-664217D3D696}.Release|x86.ActiveCfg = Release|x86
+		{0F179C10-4C61-4181-9DA3-664217D3D696}.Release|x86.Build.0 = Release|x86
+		{B5E7064C-EE6C-48F7-9A8A-705C4AC0F6AE}.Debug|x86.ActiveCfg = Debug|x86
+		{B5E7064C-EE6C-48F7-9A8A-705C4AC0F6AE}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

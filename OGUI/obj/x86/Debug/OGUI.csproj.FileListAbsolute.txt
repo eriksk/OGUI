@@ -1,0 +1,6 @@
+F:\Documents\xnaprojects\OGUI\OGUI\bin\x86\Debug\OGUI.dll
+F:\Documents\xnaprojects\OGUI\OGUI\bin\x86\Debug\OGUI.pdb
+F:\Documents\xnaprojects\OGUI\OGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents\xnaprojects\OGUI\OGUI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Documents\xnaprojects\OGUI\OGUI\obj\x86\Debug\OGUI.dll
+F:\Documents\xnaprojects\OGUI\OGUI\obj\x86\Debug\OGUI.pdb

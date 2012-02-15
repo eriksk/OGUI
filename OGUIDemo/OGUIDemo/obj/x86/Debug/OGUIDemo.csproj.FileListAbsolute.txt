@@ -1,0 +1,9 @@
+F:\Documents\xnaprojects\OGUI\OGUIDemo\OGUIDemo\bin\x86\Debug\OGUIDemo.exe
+F:\Documents\xnaprojects\OGUI\OGUIDemo\OGUIDemo\bin\x86\Debug\OGUIDemo.pdb
+F:\Documents\xnaprojects\OGUI\OGUIDemo\OGUIDemo\bin\x86\Debug\OGUI.dll
+F:\Documents\xnaprojects\OGUI\OGUIDemo\OGUIDemo\bin\x86\Debug\OGUI.pdb
+F:\Documents\xnaprojects\OGUI\OGUIDemo\OGUIDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents\xnaprojects\OGUI\OGUIDemo\OGUIDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Documents\xnaprojects\OGUI\OGUIDemo\OGUIDemo\obj\x86\Debug\OGUIDemo.exe
+F:\Documents\xnaprojects\OGUI\OGUIDemo\OGUIDemo\obj\x86\Debug\OGUIDemo.pdb
+F:\Documents\xnaprojects\OGUI\OGUIDemo\OGUIDemo\bin\x86\Debug\Content\fonts\font.xnb
